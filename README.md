@@ -65,3 +65,5 @@ da suporte ao desenvolvimento do software orientado ao comportamento da aplicaç
 3. Implementação dos teste: Neste processo foi executado pela IDE o arquivo executado e gerou os métodos necessários para efetuar a utilização, os quais foram implementados no arquivo `Conta.java` 
  <img src="https://github.com/flima21/AF_ContaBancaria/blob/main/ImagensBDD/Img3.png">
 5. Para concluir como foi dado o retorno dos testes, foi criado uma nova classe chamada `Runner.java` , pois não era possível executar de maneira exclusíva e foi gerado o seguinte resultado com o JUNIT. <img src="https://github.com/flima21/AF_ContaBancaria/blob/main/ImagensBDD/Img1.png">
+
+## Documentação disponível em `BDD/doc/index.html`
